@@ -1,5 +1,5 @@
 # Used to display on your repository's actions page
-name: McAfee Containers Workshop - Building and pushing a docker image to Amazon ECR
+name: McAfee Containers Workshop - Building and pushing a docker image to Amazon ECR - Version 2.0
 # Name of the GitHub event triggering the workflow
 on: push
 # Setup environment variables to provide configuration option and credentials via Github
